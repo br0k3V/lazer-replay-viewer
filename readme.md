@@ -12,7 +12,7 @@ to upgrade to make UI matches with actual game
 > This project somewhat implemented [this](https://github.com/ppy/osu/discussions/12986) idea (except
   we're running outside the official client)
 
-I'm trying to maintain this, but with my lack of C# probably I won't be able to.
+Currently being maintained by br0k3V
 ## Features
 - View downloaded replays (now with custom skins support)
 - Download replays (if you can log in)
